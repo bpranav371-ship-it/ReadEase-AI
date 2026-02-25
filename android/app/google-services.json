@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001396699067",
+    "project_id": "walchand-7acb0",
+    "storage_bucket": "walchand-7acb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001396699067:android:96ea1440e11da699514e9e",
+        "android_client_info": {
+          "package_name": "com.example.readease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQbyiJERQzztkiu-aY7sj8tuBoFJIDAhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
